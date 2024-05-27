@@ -2,7 +2,7 @@
 """
 Created on Mon Jan  1 11:17:10 2024
 
-@author: Pratiksha G
+@author: Pranav R
 """
     
 import pdfplumber
